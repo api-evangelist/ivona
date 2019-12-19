@@ -1,0 +1,64 @@
+{
+    "name": "Ivona",
+    "description": "<p>The Ivona team researches, develops and delivers high-caliber multi-language Text-to-Speech technology, leading in voice quality and accuracy. We are a team of creative people who successfully combine passion and ambition in creating the best TTS technology in the world.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1020-ivona-text-to-speech.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "speech",
+        "speech recognition",
+        "text to speech service",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ivona\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ivona",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1020-ivona-text-to-speech.jpg",
+            "humanURL": "http:\/\/www.ivona.com\/us\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ivona-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/IVONASoftwareRssEn"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ivona-text-to-speech"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ivona-text-to-speech"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.ivona.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@ivona.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ivonatts"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ivona.com\/us\/"
+        }
+    ]
+}
